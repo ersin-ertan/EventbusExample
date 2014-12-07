@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EventbusExample</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="action_add_fragment">add fragment</string>
+	<string name="action_send_event">send event</string>
+
+
+</resources>
